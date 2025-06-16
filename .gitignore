@@ -405,6 +405,5 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 src/*.lock
-src/addtot.rep/user/~*.bak
-src/addtot.rep/user/~*.dat
-src/addtot.rep/idata/~.bak
+/src/addtot.rep/user
+/src/addtot.rep/idata
