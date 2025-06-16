@@ -407,3 +407,4 @@ FodyWeavers.xsd
 src/*.lock
 /src/addtot.rep/user
 /src/addtot.rep/idata
+/src/addtot.rep/user
